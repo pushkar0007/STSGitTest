@@ -1,2 +1,3 @@
+package javaaa;
 class Pushkar{
 }
